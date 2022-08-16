@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-provider-dept-8001" />
+        <module name="jgit-demo" />
         <module name="springcloud-api" />
         <module name="threadTest" />
         <module name="springcloud-consumer-dept-80" />
